@@ -37,15 +37,15 @@ Per using Microsoft Azure, you will create a Subscription, Resource Group, then 
 <img src="https://i.imgur.com/oet3Oqc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once we click onto our Virtual Machine, we will look for the public IP address. We click on the copy IP button along the side to acquire this information. Once the information is acquired, we search for the Remote Desktop Connection application thru our computer. We will input the public IP address. After the IP address is inputed, we will also input the username and password created for our desktop.
 </p>
-<br />
+<br /> 
 
 <p>
 <img src="https://i.imgur.com/SgCGrl5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the username and password is inserted, we connect to the Virtual Machine that we created. We will know that we're connected because we will see the public IP address that was made for our Virtual Machine.
 </p>
 <br />
 
@@ -53,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/lXqn7ll.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is a better look to see that we're connected. From the previous picture, the public IP address was barely visible. With the screen minimized, the public IP address is more visible. You will also know that you're connected to the new Virtual Machine because there will not be a lot of icons on your screen.
 </p>
 <br />
