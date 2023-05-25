@@ -29,7 +29,7 @@ This tutorial outlines the process of using Remote Desktop to connect to a clien
 <img src="https://i.imgur.com/9mTzYs3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Per using Microsoft Azure, you will create a Subscription, Resource Group, then Virtual Machine. The Virtual Machine also represents a client's computer. This will be the starting point of remote desktoping into a client's computer.
 </p>
 <br />
 
